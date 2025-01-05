@@ -1,6 +1,14 @@
-# Cross Platform Wallpaper App
+<div align="center">
+<h1>Cross Platform Wallpaper App</h1>
+</div>
 
 This is a mobile app where users can find a likable wallpaper and download it to use as their phone's wallpapers. Since it uses react native, it can run on both android and ios.
+
+<div align="center">
+  <a href="./end-app/screen-20250105-205203.mp4">
+    <img src="./end-app/Screenshot_20250105-204347.png" alt="Watch the video" width="400">
+  </a>
+</div>
 
 ## Table of Contents
 
@@ -59,6 +67,7 @@ To run the application locally, follow the installation steps above. You can use
 - **constants**: Contains constant values and configuration settings such as theme colors, API endpoints, or other static data.
 - **hooks**: Stores custom React hooks that encapsulate reusable logic which can be shared across different components.
 - **scripts**: Includes utility scripts for various tasks like project setup, maintenance, or automation.
+- **end-app**: Includes a video and images of the application while running.
 
 ## Dependencies
 
